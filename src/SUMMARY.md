@@ -10,6 +10,7 @@
   - [Building image files](building/README.md)
 - [Installing on an Arm Morello Board](installing/README.md)
 - [Third-party packages](packages/README.md)
+  - [Upgrading packages](packages/upgrading.md)
   - [Issues with packages](packages/issues.md)
 - [CheriABI "Hello World"](helloworld/README.md)
 - [Morello known issues](issues/README.md)
