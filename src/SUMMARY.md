@@ -12,6 +12,7 @@
 - [Third-party packages](packages/README.md)
   - [Upgrading packages](packages/upgrading.md)
   - [Issues with packages](packages/issues.md)
+  - [Useful commands](packages/commands.md)
 - [CheriABI "Hello World"](helloworld/README.md)
 - [Morello known issues](issues/README.md)
 - [Getting help](support/README.md)
